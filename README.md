@@ -4,5 +4,6 @@ Some of the major OS algorithms for understanding fundamentals.
   <li>Dining Philosopher's</li>
   <li>Page Replacement Algorithms</li>
   <li>File Allocation</li>
+  <li>Producer Consumer</li>
 </ol>
   
