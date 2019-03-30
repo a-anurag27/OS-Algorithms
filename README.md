@@ -1,4 +1,4 @@
-Some of the major OS algorithms for understanding fundamentals.
+Some of the major, important OS algorithms for understanding fundamentals.
 <ol>
   <li>Banker's Algorithm</li>
   <li>Dining Philosopher's</li>
